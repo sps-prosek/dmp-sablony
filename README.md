@@ -6,9 +6,11 @@
 
 Dostupné šablony:
 
-- [x] 26-41-M/01 Elektrotechnika
-- [ ]
-- [ ]
+- [x] 26-41-M/01 Elektrotechnika - Mechatronika
+- [x] 26-41-M/01 Elektrotechnika - Automatizace měst a budov
+- [x] 18-20-M/01 Informační technologie - Správa sítí a IT bezpečnost
+- [x] 18-20-M/01 Informační technologie - Vývoj aplikací
+- [x] 23-41-M/01 Strojírenství - Počítačová podpora konstruování
 
 ## Kontakt
 **správce šablon**  
