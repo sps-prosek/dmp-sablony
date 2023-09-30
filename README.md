@@ -2,7 +2,7 @@
 
 Šablony pro dlouhodobé maturitní práce mají sjednocený styl. Liší se pouze barevným rozlišením dle oborů.
 
-> :warning: Šablony jsou univerzální, příslušný návod (text), název kapitol a informace je nutné přeformátovat do poždavků dle oboru (strojírenství, elektro, IT). Elektro šablony jsou kompletní.
+> :warning: Šablony jsou univerzální, příslušný návod (text), název kapitol a informace je nutné přeformátovat do požadavků dle oboru (strojírenství, elektro, IT). Elektro šablony jsou kompletní.
 
 Dostupné šablony:
 
