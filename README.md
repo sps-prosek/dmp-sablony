@@ -12,6 +12,9 @@ Dostupné šablony:
 - [x] 18-20-M/01 Informační technologie - Vývoj aplikací
 - [x] 23-41-M/01 Strojírenství - Počítačová podpora konstruování
 
+## Aktuální verze ##
+ke stažení [zde](https://github.com/sps-prosek/dmp-sablony/releases/latest)
+
 ## Kontakt
 **správce šablon**  
 Jaroslav Bušek  
