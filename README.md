@@ -4,13 +4,23 @@
 
 > :warning: Šablony jsou univerzální, příslušný návod (text), název kapitol a informace je nutné přeformátovat do požadavků dle oboru (strojírenství, elektro, IT). Elektro šablony jsou kompletní.
 
-Dostupné šablony:
+**Dostupné šablony:**
+
+MS Word
 
 - [x] 26-41-M/01 Elektrotechnika - Mechatronika
 - [x] 26-41-M/01 Elektrotechnika - Automatizace měst a budov
 - [x] 18-20-M/01 Informační technologie - Správa sítí a IT bezpečnost
 - [x] 18-20-M/01 Informační technologie - Vývoj aplikací
 - [x] 23-41-M/01 Strojírenství - Počítačová podpora konstruování
+
+LaTeX
+
+- [x] 26-41-M/01 Elektrotechnika - Mechatronika
+- [x] 26-41-M/01 Elektrotechnika - Automatizace měst a budov
+- [ ] 18-20-M/01 Informační technologie - Správa sítí a IT bezpečnost
+- [ ] 18-20-M/01 Informační technologie - Vývoj aplikací
+- [ ] 23-41-M/01 Strojírenství - Počítačová podpora konstruování
 
 ## Aktuální verze ##
 ke stažení [zde](https://github.com/sps-prosek/dmp-sablony/releases/latest)
