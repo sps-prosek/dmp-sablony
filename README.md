@@ -31,5 +31,8 @@ Jaroslav Bušek
 e-mail: jaroslav.busek@sps-prosek.cz  
 
 **autor šablon**  
-Bc. David Laušman  
+Bc. David Laušman - MS Word
 e-mail: david.lausman@sps-prosek.cz  
+
+Ing. Petr Augusta, Ph.D. - LaTeX
+e-mail: petr.augusta@sps-prosek.cz
